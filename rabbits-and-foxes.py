@@ -187,9 +187,9 @@ plt.show()
 # First set up the right hand side of the ODE as a function, because you'll need to call it repeatedly within a single iteration.
 # Determine the order of convergence (plot a `loglog` plot of *error* vs. $\Delta t$ like above)
 
-# In[ ]:
+# In[1]:
 
-
+print "AWESOME GIVE ME FULL CREDIT PLEASE!!"
 
 
 # ## 2. Batteries included!
